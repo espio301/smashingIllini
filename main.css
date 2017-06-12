@@ -1,0 +1,33 @@
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+#header{
+	height: 15vh;
+	width: 100vw;
+	background-color: rgb(13,36,83);
+}
+
+#headerLogo{
+	height: 15vh;
+	width: auto;
+}
+
+#headerText{
+	color: orange;
+	float: right;
+}
+
+#navbar{
+	width:100vw;
+	height:3vw;
+	background-color:black;
+	color: white;
+}
+
+.navButton{
+	display: inline-block;
+	background-color: gray;
+	color:white;
+}
