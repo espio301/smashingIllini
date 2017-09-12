@@ -32,5 +32,6 @@ body{
 	color:white;
 }
 
-
-//hello
+.testing{
+	display: inline-block;
+}
